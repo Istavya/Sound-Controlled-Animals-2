@@ -1,0 +1,21 @@
+body {
+    font-family: 'Are You Serious', cursive;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Libre Baskerville', serif;
+
+background-color: darkslateblue;
+color:white;
+text-align:center;
+}
+
+#copy_right_footer {
+position:fixed;
+color:white;
+bottom:0;
+width:100%;
+font-size: 18px;
+background-color: darkblue;
+text-align:center;
+text-shadow:5px 5px 5px gray;
+}
+
